@@ -1,3 +1,6 @@
+# Simple FORK with Bulma CSS option
+A Codeigniter library to add pagination easily
+
 # paginator
 A Codeigniter library to add pagination easily
 
