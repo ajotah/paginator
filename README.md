@@ -27,10 +27,10 @@ you can read more about Codeigniter pagination options here : https://www.codeig
 Finally in your view to add the pagination links :
 
 ```php
-<?php echo $this->paginator->get_links('posts', 'bootstrap4'); ?>
+<?php echo $this->paginator->get_links('posts', 'bulma'); ?>
 ```
 
-The second parameter is optional, if you are using bootstrap 3 or 4 just pass 'bootstrap3' or 'bootstrap4' as a second parameter.
+The second parameter is optional, if you are using Bulma CSS just pass 'bulma' as a second parameter. 
 
 ## Customize the Result:
 
